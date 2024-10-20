@@ -1,0 +1,61 @@
+
+    <!--
+
+    1-> W3C NEDİR?
+ 
+W3C, yani World Wide Web Consortium, internetin "standartlarını" belirleyen bir organizasyondur. 
+1994 yılında Tim Berners-Lee tarafından kuruldu. Amacı, web’in gelişimini ve uzun ömürlülüğünü sağlamak 
+için çeşitli kurallar ve standartlar oluşturmak.
+
+Örneğin, HTML ve CSS gibi web teknolojilerinin nasıl çalışması gerektiğini tanımlar. 
+Bu standartlar, web sitelerinin farklı tarayıcılarda ve cihazlarda aynı şekilde görünmesini ve çalışmasını sağlar.
+
+Kısacası, W3C, web’in herkes için daha iyi ve erişilebilir olmasını sağlamak için çalışan bir grup uzman ve organizasyondur.
+    
+Mesele HTML içerisinde tag(etiket) barındırır. Bu etiketlerin bir standardı vardır bu standart W3C tarafından önceden belirtilmiştir.
+
+
+    2-> W3C VALIDATOR NEDİR / NE İŞE YARAR?
+
+W3C Validator, web sayfalarının HTML, XHTML veya CSS kodlarını kontrol eden bir araçtır. W3C (World Wide Web Consortium), 
+web standartlarını belirleyen bir organizasyondur ve bu validator, web geliştiricilerine kodlarının standartlara uygun olup
+ olmadığını belirleme imkanı sunar.
+
+ Linki aşağıya bırakıyorum,
+ 
+https://validator.w3.org/
+
+ Validate by URL; online sitenin adresini verip öyle kontrol edebilirsiniz
+ validate by File Upload; dosyayı yükleyerek kontrol edebilirsiniz
+ validate by Direct Input; direkt kodları yapıştırıp öyle kontrol edebilirsiniz
+
+
+    -->
+
+     <!--
+
+  -----------------------------------ENGLISH VERSION-----------------------------------
+
+1-> What is W3C?
+
+W3C, or the World Wide Web Consortium, is an organization that sets the "standards" for the internet. It was founded in 1994 by Tim Berners-Lee. Its purpose is to create various rules and standards to ensure the development and longevity of the web.
+
+For example, it defines how web technologies like HTML and CSS should function. These standards ensure that websites look and work the same across different browsers and devices.
+
+In short, W3C is a group of experts and organizations working to make the web better and more accessible for everyone.
+
+HTML contains tags, and these tags have a standard that has been previously specified by W3C.
+
+2-> What is W3C Validator / What is it Used For?
+
+W3C Validator is a tool that checks the HTML, XHTML, or CSS code of web pages. W3C (World Wide Web Consortium) is an organization that sets web standards, and this validator allows web developers to determine whether their code complies with those standards.
+
+Here’s the link:
+
+https://validator.w3.org/
+
+Validate by URL: You can check by providing the online address of the site.
+Validate by File Upload: You can check by uploading a file.
+Validate by Direct Input: You can check by pasting the code directly.
+
+   -->
